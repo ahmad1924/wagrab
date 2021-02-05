@@ -1,0 +1,11 @@
+{
+  "name": "maxgrabb",
+  "version": "1.0.16",
+  "author": "maxgrabb TIM",
+  "private": true,
+  "main": "background.js",
+  "dependencies": {
+    "electron-context-menu": "^2.3.0",
+    "electron-is-dev": "^1.2.0"
+  }
+}
